@@ -8,5 +8,10 @@ namespace vjezba5
 {
     interface Dio
     {
+        string naziv { get; set; }
+        int sifra { get; set; }
+
+        string printAttributes();
+        
     }
 }
