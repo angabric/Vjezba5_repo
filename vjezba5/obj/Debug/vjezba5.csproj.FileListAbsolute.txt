@@ -1,1 +1,9 @@
 c:\users\stefanokliba\documents\visual studio 2013\Projects\vjezba5\vjezba5\bin\Debug\vjezba5.exe.config
+c:\users\stefanokliba\documents\visual studio 2013\Projects\vjezba5\vjezba5\bin\Debug\vjezba5.exe
+c:\users\stefanokliba\documents\visual studio 2013\Projects\vjezba5\vjezba5\bin\Debug\vjezba5.pdb
+c:\users\stefanokliba\documents\visual studio 2013\Projects\vjezba5\vjezba5\obj\Debug\vjezba5.csprojResolveAssemblyReference.cache
+c:\users\stefanokliba\documents\visual studio 2013\Projects\vjezba5\vjezba5\obj\Debug\vjezba5.Form1.resources
+c:\users\stefanokliba\documents\visual studio 2013\Projects\vjezba5\vjezba5\obj\Debug\vjezba5.Properties.Resources.resources
+c:\users\stefanokliba\documents\visual studio 2013\Projects\vjezba5\vjezba5\obj\Debug\vjezba5.csproj.GenerateResource.Cache
+c:\users\stefanokliba\documents\visual studio 2013\Projects\vjezba5\vjezba5\obj\Debug\vjezba5.exe
+c:\users\stefanokliba\documents\visual studio 2013\Projects\vjezba5\vjezba5\obj\Debug\vjezba5.pdb
